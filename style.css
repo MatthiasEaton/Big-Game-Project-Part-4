@@ -1,0 +1,12 @@
+#canvas1 {
+    border: 3px solid black;
+    position: absolute;
+    height: 600px;
+    width: 500px;
+    background: black;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
